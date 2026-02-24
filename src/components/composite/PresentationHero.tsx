@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import { Mail, Download } from "lucide-react";
+import { Download } from "lucide-react";
 import { personalInfo } from "../../lib/data";
-import { SOCIAL_LINKS, CONTACT } from "../../lib/constants";
+import { SOCIAL_LINKS } from "../../lib/constants";
 import { Button } from "../ui/button";
 import { fadeInUp, staggerContainer } from "../../lib/utils";
 import { useTheme } from "../../lib/theme";
