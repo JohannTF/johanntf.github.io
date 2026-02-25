@@ -185,14 +185,7 @@ export const projects: Project[] = [
     period: "Ene. 2023",
     description:
       "Programa con interfaz gráfica que calcula el area entre la parabola y la recta y muestra la graficación en 2d y 3d de su volumen",
-    tags: [
-      "Kotlin",
-      "Spring Boot",
-      "PostgreSQL",
-      "Docker",
-      "JWT",
-      "TEAM WORK",
-    ],
+    tags: ["Python", "Matplotlib", "Sympy"],
     image: "/assets/projects/volume-integrals.jpg",
     repoUrl: "https://github.com/JohannTF/Volume-Integrals",
     owner: {
